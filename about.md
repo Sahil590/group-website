@@ -17,4 +17,4 @@ you can cite the projact as:
 
 ## Contact us
 - Email [{{ site.email }}](mailto:{{ site.email }})
-- X: [@sahilraja0](https://x.com/sahilraja0)
+- X: [{{ site.x }}]
