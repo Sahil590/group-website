@@ -6,7 +6,7 @@
 
 {{ site.description }}
 
-##Funders
+## Funders
 
 We gratefully acknowledge funding from XYZ Founding Council, under grand number 'abc'.
 
@@ -17,4 +17,4 @@ you can cite the projact as:
 
 ## Contact us
 - Email [{{ site.email }}](mailto:{{ site.email }})
-- X: [{{ site.x }}]
+- Twitter: [{{ site.twitter }}]({{ site.twitter }})
