@@ -1,3 +1,7 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example/"
+---
+
 # About 
 
 
@@ -5,6 +9,8 @@
 ## Project
 
 {{ site.description }}
+
+See some  [examples of our work]({{ page.lesson-example}})
 
 ## Funders
 
